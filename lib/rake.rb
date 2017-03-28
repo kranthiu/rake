@@ -66,5 +66,5 @@ $trace = false
 #
 # Some top level Constants.
 
-FileList = Rake::FileList
+    FileList = Rake::FileList
 RakeFileUtils = Rake::FileUtilsExt
